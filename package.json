@@ -1,0 +1,10 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jkyoung37/blockchain.git",
+  "author": "DESKTOP-5QB9KIT\\jks55 <jkyoung37@gmail.com>",
+  "license": "MIT",
+  "scripts": {"start": "node index.js",
+  "prestart": "tsc"}
+}
